@@ -74,6 +74,18 @@
 
 ---
 
+## Related Awesome Lists
+
+- [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/) - Tools, services, and SaaS for startup founders — incorporation, finance, hiring, and growth.
+- [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/) - Genogram builders, family-tree visualization libraries, and genealogy software for therapists, social workers, and developers.
+- [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/) - The software stack used by modern venture capital firms — sourcing, diligence, portfolio support, and fund admin.
+- [Awesome Healthcare Recruitment](https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/) - Tools and platforms for sourcing, screening, and hiring physicians, nurses, and other clinical staff.
+- [Awesome Award Travel](https://awesomedirectory.github.io/awesome-award-travel/) - Tools for finding award flights, tracking points and miles, and maximizing credit card rewards.
+- [Awesome B2B Prospecting](https://awesomedirectory.github.io/awesome-b2b-prospecting/) - Contact databases, enrichment tools, sequencers, and deliverability platforms for B2B sales and growth teams.
+- [Awesome Invoicing](https://awesomedirectory.github.io/awesome-invoicing/) - Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses.
+- [Awesome Tech Sales](https://awesomedirectory.github.io/awesome-tech-sales/) - Tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers.
+---
+
 ## Contributing
 
 Know a PR tool that should be on this list? See [contributing.md](contributing.md).
