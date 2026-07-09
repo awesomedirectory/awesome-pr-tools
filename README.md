@@ -9,6 +9,7 @@
 - [Media Monitoring](#media-monitoring)
 - [Press Release Distribution](#press-release-distribution)
 - [Pitch Tracking & Outreach](#pitch-tracking--outreach)
+- [Executive & Expert Contacts](#executive--expert-contacts)
 - [Newsletter & Audience Discovery](#newsletter--audience-discovery)
 - [Podcast & Influencer Outreach](#podcast--influencer-outreach)
 - [Contributing](#contributing)
@@ -57,6 +58,12 @@
 * [Pitchbox](https://pitchbox.com) - Outreach automation for PR and link building.
 * [BuzzStream](https://www.buzzstream.com) - Outreach management with relationship CRM.
 * [Postaga](https://postaga.com) - Outreach tool with built-in opportunity finder.
+
+## Executive & Expert Contacts
+*Sometimes the pitch goes to an operator, not a reporter — partnership announcements, award nominations, and agency new-business outreach.*
+
+* [MessageCEO](https://messageceo.com) - 200,000+ verified CEO, CTO, and CMO emails searchable by company, industry, and location — for exec-level outreach and agency business development.
+* [The Org](https://theorg.com) - Public org charts for thousands of companies; find the right executive before you pitch.
 
 ## Newsletter & Audience Discovery
 *Reach niche audiences through their writers, not their inboxes.*
